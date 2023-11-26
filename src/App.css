@@ -1,0 +1,11 @@
+ li.nav-item {
+     border-radius: 30px;
+     padding: 5px !important;
+     width: 47px;
+     height: 47px;
+     text-align: center;
+ }
+ 
+ li.nav-item:hover {
+     background-color: rgba(0, 0, 0, 0.05);
+ }
